@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882198726658",
+    "firebase_url": "https://codestartfirebase.firebaseio.com",
+    "project_id": "codestartfirebase",
+    "storage_bucket": "codestartfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882198726658:android:4d707c8660a9fa7f",
+        "android_client_info": {
+          "package_name": "codestart.info.androidfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882198726658-8hvk2996jcdo2rg2pptcaggj1vsjjta9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codestart.info.androidfirebasechat",
+            "certificate_hash": "62ad65294b3ffa3234758a85bacb34ee145c495c"
+          }
+        },
+        {
+          "client_id": "882198726658-989q8uuiu91e9onhc227qa4til3u06nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTE_lUdt-ltdQeufWGqV_5CcL8FqoawQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882198726658-989q8uuiu91e9onhc227qa4til3u06nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
